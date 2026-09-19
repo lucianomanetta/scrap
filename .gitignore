@@ -1,0 +1,7 @@
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+credentials*
+node_modules/
