@@ -68,9 +68,11 @@ These are the properties the system was built around, and the reason it can be u
 
 ## Current status
 
-SCRAP operates against SERPRO's **trial environment** and against a **test** payment rail. It is not, at the time of writing, transacting against production federal services or processing real payments.
+SCRAP is deployed and in operational use. Portfolio administration, client management and the Radar Nacional module run against live data.
 
-The product is in active development. Portfolio administration, client management, the Radar Nacional module and the federal tax-document flows are implemented; other catalogue entries are in progress. Interface language is available in more than one locale.
+The federal tax-document flows depend on a contracted government API and on each taxpayer's registered digital certificate. These operate against the provider's trial environment. Moving them to production is a deliberate gate rather than a missing capability: it requires real certificates held in the vault and a signed-off closure of the financial path.
+
+The product is in active development. Interface language is available in more than one locale.
 
 ## What this project does not claim
 
