@@ -85,6 +85,10 @@ Stated plainly, because in this domain the boundaries matter more than the featu
 - It does **not** cover every federal obligation. Coverage is explicit and bounded.
 - Prospecting data is public information republished by the PGFN, with the accuracy and the lag that implies.
 
+## Writing
+
+- [Shipping regulated systems with coding agents](docs/shipping-regulated-systems-with-coding-agents.md). The five decisions that have to leave the agent's reach before any code is written, specification as the real work, mutual-TLS integration with Brazilian federal APIs, and autonomy measured by blast radius instead of difficulty.
+
 ## Licensing
 
 SCRAP is proprietary. Publishing this material does not grant any licence to the product, its source code, its rule definitions, or its methodology. No content licence has been applied to this repository.
